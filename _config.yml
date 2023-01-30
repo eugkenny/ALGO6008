@@ -1,0 +1,22 @@
+title: "ALGO 6008 - Algorithms for Game Development"
+description: "Algorithms for Game Development"
+
+url: "https://github.com/eugkenny/ALGO6008" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ALGO6008" # the subpath of your site, e.g. /blog
+
+githublink: "https://github.com/eugkenny/ALGO6008"
+githubdir: "eugkenny"
+
+# Author/user information
+email: eugkenny.lit@gmail.com
+# twitter_username: tweet_tweet
+github_username: eugkenny
+authorurl: "https://eugkenny.github.io"
+address:
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+include: ['assets']
