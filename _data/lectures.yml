@@ -18,3 +18,12 @@
   dirname: lectures
   tldr: "Basic concept of graphs, Graph representation"
 
+- title: "Lecture 3: Graph Search"
+  filename: 03 - Graphs - Searching.pdf
+  dirname: lectures
+  tldr: "Breath-first search, Depth-first search"
+
+- title: "Lecture 4: Minimum Spanning Trees"
+  filename: 04 - Graphs - Minimum Spanning Trees.pdf
+  dirname: lectures
+  tldr: "Prim's Algorithm, Kruskal's Algorithm"
