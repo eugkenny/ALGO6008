@@ -1,7 +1,7 @@
-#- title: "Programming Assignment 1 - Infix & Postfix"
-#  filename: Programming Assignment 1 - Infix & Postfix.pdf
-#  dirname: assignments
-#  tldr: "Percolation Systems, Union-Find"
+- title: "Programming Assignment 1 - Open Addressing in Hash Tables"
+  filename: Assignment 1 - Open Addressing in Hash Tables-3.pdf
+  dirname: assignments
+  tldr: "Linear Probing, Quadratic Probing, Double Hashing"
 
 #- title: "Programming Assignment 1 - Starter Code"
 #  filename: Percolation.zip

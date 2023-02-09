@@ -11,7 +11,12 @@
 - title: "Demo: Hash Tables"
   filename: 01 - DemoLinearProbingHashTable.mov
   dirname: lectures
-  tldr: "Linera Probing - Insertion & Searching"
+  tldr: "Linear Probing - Insertion & Searching"
+
+- title: "Open Addressing Collision Handling"
+  filename: Open Addressing Collision Handling.pdf
+  dirname: lectures
+  tldr: "Linear Probing, Quadratic Probing, Double Hashing"
 
 - title: "Lecture 2: Graph Theory"
   filename: 02 - Graph Theory.pdf
