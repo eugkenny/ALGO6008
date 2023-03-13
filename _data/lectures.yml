@@ -32,3 +32,38 @@
   filename: 04 - Graphs - Minimum Spanning Trees.pdf
   dirname: lectures
   tldr: "Prim's Algorithm, Kruskal's Algorithm"
+
+- title: "Lecture 5: Problem Solving & Search I"
+  filename: 05 - Problem Solving & Search 1.pdf
+  dirname: lectures
+  tldr: "Search problems, state space, Uniformed Search, BFS, DFS"
+
+- title: "Lecture 6: Problem Solving & Search II"
+  filename: 06 - Problem Solving & Search 2.pdf
+  dirname: lectures
+  tldr: "Informed search, Uniform Cost Search (Dijkstra), A* Search, Pathfinding"
+
+- title: "Lecture 7: Convex Hull"
+  filename: 07 - Convex Hull.pdf
+  dirname: lectures
+  tldr: "Convex hull, Graham scan"
+
+- title: "Demo: Graham Scan"
+  filename: 07 - Demo Graham Scan.pdf
+  dirname: lectures
+  tldr: Graham scan
+
+- title: "Lecture 8: Geometric Search"
+  filename: 08 - Geometric Search.pdf
+  dirname: lectures
+  tldr: "Geometric Applications of BST's"
+
+- title: "Demo: Interval Search Trees"
+  filename: 08 - Demo Interval Search Tree.mov
+  dirname: lectures
+  tldr: Interval Search Tree
+
+- title: "Demo: Kd Trees"
+  filename: 08 - Demo Kd Tree.mov
+  dirname: lectures
+  tldr: Kd Tree
