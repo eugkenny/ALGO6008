@@ -67,3 +67,18 @@
   filename: 08 - Demo Kd Tree.mov
   dirname: lectures
   tldr: Kd Tree
+
+- title: "Lecture 9: Reductions"
+  filename: 09a - Reductions.pdf
+  dirname: lectures
+  tldr: "Reductions, Lower bounds, Classifying problems"
+
+- title: "Lecture 10: Linear Programming"
+  filename: 09b - Linear Programming.pdf
+  dirname: lectures
+  tldr: "Simplex Algorithm, reductions"
+
+- title: "Lecture 11: Intractability"
+  filename: 10 - Intractability.pdf
+  dirname: lectures
+  tldr: "Intractability, search problems, P vs NP, NP-completeness, dealing with intractability"
