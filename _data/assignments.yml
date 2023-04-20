@@ -8,6 +8,16 @@
   dirname: assignments
   tldr: ""
 
+- title: "Programming Assignment 2 - Eight Puzzle Sovler"
+  filename: Assignment 2 - EightPuzzle.pdf
+  dirname: assignments
+  tldr: "Eight Puzzle, A*"
+
+- title: "Programming Assignment 2 - Starter Code"
+  filename: EightPuzzle.zip
+  dirname: assignments
+  tldr: ""
+
 #- title: "Programming Assignment 2 - Collinear Points"
 #  filename: Programming Assignment 2 - Collinear Points.pdf
 #  dirname: assignments
