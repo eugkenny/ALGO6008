@@ -33,6 +33,11 @@
   dirname: lectures
   tldr: "Prim's Algorithm, Kruskal's Algorithm"
 
+- title: "Lecture 5: Shortest Path Algorithms"
+  filename: 05 - Graphs - Shortest Paths.pdf
+  dirname: lectures
+  tldr: "Dijkstra's Algorithm"
+
 - title: "Lecture 5: Problem Solving & Search I"
   filename: 05 - Problem Solving & Search 1.pdf
   dirname: lectures
